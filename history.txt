@@ -1,0 +1,499 @@
+    1  git -v
+    2  git config
+    3  git config
+    4  git config
+    5  git config --global
+    6  git config --global user
+    7  git config --global user.name
+    8  git config --global user.name 'oksna777'
+    9  git config --global user.name 'oksna777'
+   10  git config --global user.name
+   11  git config --global user.email 
+   12  git config list
+   13  cd
+   14  ssh ec2-user@linux.itcareerhub.de
+   15  cd
+   16  ls
+   17  cd
+   18  ls
+   19  pwd
+   20  cd /
+   21  cd
+   22  ssh-keygen
+   23  cat .ssh/id_ed25519
+   24  cat .ssh/id_ed25519.pub 
+   25  ssh ec2-user@linux.itcareerhub.de
+   26  cd
+   27  ls
+   28  pwd
+   29  cd /
+   30  ls -la
+   31  cd /opt
+   32  ls
+   33  cd
+   34  cd /opt/131224-wdm/
+   35  cd
+   36  ls
+   37  pwd
+   38  ssh
+   39  top
+   40  cd
+   41  cd
+   42  pwd
+   43  pwd
+   44  ls
+   45  scp ec2-user[200~
+   46  scp ec2-userlinux.itcareerhub.de:/opt/131224-wdm/sadvakassof/file.txt .
+   47  ls
+   48  scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/sadvskassof/file.txt .
+   49  cd
+   50  ssh ec2-user@linux.itcareerhub.de
+   51  ls
+   52  cd
+   53   ssh ec2-user@linux.itcareerhub.de
+   54  imv
+   55  inv
+   56  ec2-user@linux.itcareerhub.de
+   57  es
+   58  ec2-user@linux.itcareerhub.de
+   59  ssh ec2-user@linux.itcareerhub.de
+   60  ssh ec2-user@linux.itcareerhub.de
+   61  ssh ec2-user@linux.itcareerhub.de
+   62  cd
+   63  cd
+   64  ssh ec2-user@linux.itcareerhub.de 
+   65  ssh ec2-user@linux.itcareerhub.de
+   66  cd
+   67  ssh ec2-user@linux.itcareerhub.de 
+   68  cd
+   69  ec2-user@linux.itcareerhub.de
+   70  ec2-user@linux.itcareerhub.de
+   71  ssh ec2-user@linux.itcareerhub.de
+   72  cd
+   73  ssh ec2-user@linux.itcareerhub.de
+   74  cd
+   75  ssh ec2-user@linux.itcareerhub.de
+   76  cd
+   77  ssh [200~
+   78  cd
+   79  cd
+   80  ssh ssh ec2-user@linux.itcareerhub.de
+   81  ssh ssh ec2-user@linux.itcareerhub.de
+   82  #scp ec2-user
+   83  scp ec2-user@linux.itcareerhab.de:/opt/131224-wdm/Sadvakassof/file.txt
+   84  scp ec2-user@linux.itcareerhab.de:/opt/131224-wdm/Sadvakassof/file.txt .
+   85  ls
+   86  cd
+   87  ssh ssh ec2-user@linux.itcareerhub.de
+   88  ssh ec2-user@linux.itcareerhub.de
+   89  CD
+   90  scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/Sadvakassov/file.txt .
+   91  ls
+   92  pwd
+   93  open /
+   94  cd
+   95  ssh ec2-user@linux.itcareerhub.de 
+   96  history
+   97  exit
+   98  cd
+   99  ssh ec2-user@linux.itcareerhub.de
+  100  exit
+  101  cd
+  102  ssh ec2-user@linux.itcareerhub.de
+  103  ssh ec2-user@linux.itcareerhub.de
+  104  Oksana
+  105  ssh ec2-user@linux.itcareerhub.de
+  106  ssh ec2-user@linux.itcareerhub.de 
+  107  cd
+  108  ssh ec2-user@linux.itcareerhub.de 
+  109  cd
+  110  ssh ec2-user@linux.itcareerhub.de
+  111  cd
+  112  ls -la
+  113  echo "# https-github.com-Oksana-Oksana.-" >> README.md
+  114  git init
+  115  ls -la
+  116  cd .git/
+  117  ls -la
+  118  cd ..
+  119  git status
+  120  git add .
+  121  git status
+  122  git commit -m "add file README.md"
+  123  git branch -M main
+  124  git remote add origin git@github.com:Oksna777/https-github.com-Oksana-Oksana.-.git
+  125  git remote -v
+  126  git push -u origin main
+  127  git push -u origin main
+  128  echo "Hello World" >> README.md
+  129  git init
+  130  git statys
+  131  git add .
+  132  git status
+  133  git commit -m "first commit"
+  134  git remote add origin git@github.com:Oksna777/https-github.com-Oksana-Oksana.-.git
+  135  git remote -v
+  136  git push -u origin main
+  137  yes
+  138  ls -la
+  139  git status
+  140  ls -la
+  141  git remote -v
+  142  git push -u origin main
+  143  echo "# git_intro" >> README.md
+  144  git init
+  145  git add README.md
+  146  echo "#git_intro" >> README.md
+  147  git init
+  148  git add Oksana
+  149  git add README.md
+  150  git commit -m "Added photo"
+  151  git init
+  152  git add README.md
+  153  git commit -m "Added photo"
+  154  git branch -M main
+  155  git remote add origin git@github.com:Oksna777/git_intro.git
+  156  git push -u origin main
+  157  git remote add origin git@github.com:Oksna777/git_intro.git
+  158  cd
+  159  ec2-user@linux.itcareerhub.de
+  160  ssh ec2-user@linux.itcareerhub.de
+  161  cd ~/Desktop/Neuer-ordner
+  162  git init
+  163  ssh ec2-user@linux.itcareerhub.de
+  164  mkdir 05032025
+  165  cd 05032025
+  166  git init
+  167  echo "test text" > file.txt
+  168  echo "read me" > README.md
+  169  git status
+  170  git add .
+  171  git commit -m "fffff"
+  172  git status
+  173  git log
+  174  git commit —amend -m "Added files README and file"
+  175  git log
+  176  git branch -M main
+  177  git checkout -b test
+  178  git branch
+  179  history
+  180  echo "#archive"
+  181  echo "#archive\n"
+  182  echo "#archive\n *.rar"
+  183  echo -e "#archive\n *.rar"
+  184  echo -e "#archive\n *.rar" > .gitignore 
+  185  echo "new data" >> file.txt
+  186  git status
+  187  git add .
+  188  git status
+  189  git commit -m “changed file.txt and added .gitignore”
+  190  git commit -m "changed file.txt and added .gitignore"
+  191  git checkout main
+  192  echo "neues data" >> file.txt
+  193  touch 1.rar
+  194  history
+  195  git status
+  196  git add .
+  197  git status
+  198  git commit -m "new file 1.rar and new data in file.txt"
+  199  git merge test
+  200  git status
+  201  nano file.txt
+  202  git add file.txt
+  203  git commit -m "merged main and test"
+  204  git log --oneline --graph --all
+  205   git status
+  206  git@github.com:Oksna777/05032025.git git remote -v                                                 
+  207  git@github.com:Oksna777/05032025 % git remote -v
+  208  git remote -v git@github.com:Oksna777/05032025.git
+  209   git pull
+  210   git pull origin main
+  211   git pull --rebase origin main
+  212  git status
+  213  nano REDME.md
+  214  git add .
+  215  git rebase --continue
+  216  git push -u origin main
+  217  git status
+  218  git add .
+  219  git push -u origin main
+  220  git status
+  221  git rebase --continue
+  222  cd ~/Desktop/git-branch
+  223  git-branch % echo "# git-branch" >> README.md
+  224  echo "# git-branch" >> README.md
+  225  pwd
+  226  git init
+  227  git add .
+  228  git status
+  229  git commit -m "first commit"
+  230  git branch -M main
+  231  git remote add origin git@github.com:Oksna777/git-branch.git
+  232  remote -v
+  233  git remote -v
+  234  git push -u origin main
+  235  winget install Schniz.fnm
+  236  install fnm 22
+  237  install fnm 22
+  238  node -v
+  239  "C:\Users\Lenovo\Desktop\Intro\README.md"
+  240  cd
+  241  C:\Users\Lenovo\Desktop\Intro\README.md
+  242  git log
+  243  cd
+  244  ssh ec2-user@linux.itcareerhub.de
+  245  bioset_count=$(ps -ef | grep bioset | grep -v grep | wc -l)
+  246  echo "$bioset_count"
+  247  permissions=$(ls -l /etc/passwd | awk '{print \$1}')
+  248  echo"/etc/passwd: $permissions"
+  249  git status
+  250  cd
+  251  ssh ec2-user@linux.itcareerhub.de
+  252  cd
+  253  ssh ec2-user@linux.itcareerhub.de
+  254  pwd
+  255  cd
+  256  ssh ec2-user@linux.itcareerhub.de
+  257  git clon [200~
+  258  cd
+  259  cd L18.03
+  260  cd ~/Desktop/linoks/L18.03
+  261  cd
+  262  ~/Desktop/L18.03
+  263  cd
+  264  ssh ec2-user@linux.itcareerhub.de
+  265  cd
+  266  ssh ec2-user@linux.itcareerhub.de 
+  267  ssh ec2-user@linux.itcareerhub.de
+  268  cd
+  269  ssh ec2-user@linux.itcareerhub.de
+  270  ping 8.8.4.4
+  271  sudo ping -c Google.com
+  272  ping -t Google.com
+  273  ping Google.com
+  274  ssh ec2-user@linux.itcareerhub.de
+  275  s
+  276  ls
+  277  ssh ec2-user@linux.itcareerhub.de
+  278  md5sum ~/Downloads/archiv.tar.gz
+  279  scp ~/Downloads/archiv.tar.gz ec2-user@linux.itcareerhub.de:/opt/131224-wdm/sadvakassof
+  280  cd ~/Desktop
+  281  git clon git@github.com:Oksna777/deleting_repo.git
+  282  git clone git@github.com:Oksna777/deleting_repo.git
+  283  cd
+  284  cd
+  285  cat .ssh/
+  286  echo "Hello" >>README.md
+  287  git init
+  288  git branch -M main
+  289  ls -la
+  290  cd .git/
+  291  ls -la
+  292  cd ..
+  293  git status
+  294  git add .
+  295  git status
+  296  git commit -m "add file README.md"
+  297  git remote add origin git@github.com:Oksana757/git_intro.git
+  298  git remote -v
+  299  git push -u origin main
+  300   ssh-add-1
+  301  git remote -v
+  302  git push -u origin main
+  303  ls -la
+  304  git push -u origin main
+  305  git remote -v
+  306  git remote add origin https://github.com/Oksana757/git_intro.git
+  307  git remote -v
+  308  git push -u origin main
+  309  git remote set-url origin git@github.com:Oksana757/git_intro.git
+  310  git status
+  311  ssh-add -l
+  312  ~/.ssh/config
+  313  git remote -v
+  314  git push --set-upstream origin main
+  315  cp "C:\Users\Lenovo\Desktop\one-code.jpg"
+  316  git add .
+  317  git commit -m "add foto"
+  318  git remote add origin git@github.com:Oksana757/git_intro.git
+  319  cd
+  320  cat .ssh/id_ed25519.pub
+  321  cd
+  322  mkdir git-merge-test
+  323  cd git-merge-test
+  324  git-merge-test % git init
+  325  git-merge-test % git init .
+  326  git init
+  327  git branch -m main
+  328  ls-la
+  329  git-merge-test % git branch
+  330  git-merge-test % git commit -am"we are commiting the inital content"
+  331  git checkout -b new_branch_to_merge_later
+  332  ls -la
+  333  git-merge-test % echo "totally different content to merge later" > merge.txt
+  334  echo "totally different content to merge later" > merge.txt
+  335  git add merge.txt
+  336  git-merge-test % git commit -am"we are commiting the inital content"
+  337  git checkout main
+  338  echo " new content" >> merge.txt
+  339  git commit -am "added new data"
+  340  git status
+  341  git commit -am
+  342  git add merge.txt
+  343  git commit -am "your message"
+  344  cat merge.txt
+  345  git branch main
+  346  git checkout main
+  347  nano merge.txt
+  348  git status
+  349  git add merge.txt
+  350  git status
+  351  git merge --continue
+  352  git remote add origin
+  353  git remote add origin git@github.com:Oksna777/git-merge-test.git
+  354  git remote -v
+  355  git push -u origin main
+  356  git branch --set-upstream-to=origin/main main
+  357  git pull --rebase
+  358  git branch --set-upstream-to=origin/main main
+  359  git pull origin main
+  360  git fetsh origin main 
+  361  git status
+  362  git rebase --continue
+  363  git pull --rebase
+  364  nano merge.txt
+  365  ls -la
+  366  git rebase --continue
+  367  git add .
+  368  git rebase --continue
+  369  git push -u origin main
+  370  git log --oneline
+  371  cd
+  372  git remote -v
+  373  git remote -v
+  374  git remote remove origin
+  375  git remote add origin git@github.com:Oksana757/git_intro.git
+  376  git remote -v
+  377  git add git_intro/foto.jpg
+  378  cp /path/to/foto.jpg ./git_intro/
+  379  ls -l
+  380  cat.gitignore
+  381  git add git_intro/foto.jpg
+  382  ls -l git_intro
+  383  pwd
+  384  ls -l
+  385  git push -u origin main
+  386  cd
+  387  cat .ssh/
+  388  cd
+  389  cat .ssh/
+  390  cd
+  391  cat .ssh/
+  392  cat .ssh/ id_ed25519.pub
+  393  cd
+  394  pwd
+  395  find ~ -name "id_ed25519.pub"
+  396  cd
+  397  cat .ssh/
+  398  cd
+  399  cat .ssh/
+  400  cat .ssh/id_ed25519.pub
+  401  echo "Hello" >> README.md
+  402  git init
+  403  git branch
+  404  ls -la
+  405  cd .git/
+  406  ls -la
+  407  cd ..
+  408  git status
+  409  git add .
+  410  git status
+  411  git commit -m "add file README.md"
+  412  git branch -M main
+  413  git remote add origin git@github.com:Oksana757/test_5.git
+  414  git remote -v
+  415  git push -u origin main
+  416  git remote -v
+  417  git remote remove origin
+  418  git remote add origin git@github.com:Oksana757/test_5.git
+  419  git remote -v
+  420  git push -u origin main
+  421  ssh -T git@github.com
+  422  git remote -v
+  423  git push -u origin main
+  424  pwd
+  425  pwd
+  426  ls -la
+  427  ls -l
+  428  git status
+  429  git remote -v
+  430  git push -u origin main
+  431  git remote -v
+  432  git push -u origin main
+  433  git push --help
+  434  cd
+  435  echo "# git_intro" >> README.md
+  436  git init
+  437  git add README.md
+  438  git commit -m "Added photo"
+  439  git branch -M main
+  440  ls -la
+  441  cd .git/
+  442  ls -la
+  443  cd ..
+  444  git remote add origin git@github.com:Oksana757/git_intro.git
+  445  git remote -v
+  446  git push -u origin main
+  447  cd
+  448  ls -la
+  449  git remote -v
+  450  git remote add origin git@github.com:Oksana757/git-branch.git
+  451  ls -la
+  452  echo "#git-branch" >> README.md
+  453  git init
+  454  git commit -m "add projects"
+  455  git branch -M main
+  456  git status
+  457  git add README.md 
+  458  git status
+  459  git add
+  460  ls -la
+  461  git status
+  462  git commit -m "added new file README"
+  463  git branch
+  464  git remote add origin git@github.com:Oksana757/git-branch.git
+  465  git remote -v
+  466  git push -u origin main
+  467  git checkout -b gitignore
+  468  git branch
+  469  nano .gitignore 
+  470  git push -u origin gitignore
+  471  git clone https://github.com/Oksana757/my_repo.git
+  472  cd my_repo
+  473  git checkout -b feature
+  474  nano README.md
+  475  nano .gitignore
+  476  git add README.md .gitignore
+  477  git commit -m
+  478  git remote -v
+  479  git push origin feature
+  480  git bransh
+  481  git fetch origin
+  482  ls -la
+  483  git branch
+  484  nano README.md .gitignore
+  485  git add .
+  486  git add README.md .gitignore
+  487  git commit -m "my project"
+  488  git push origin feature
+  489  git remote -v
+  490  git push -u origin feature
+  491  git branch -r
+  492  git status
+  493  git remote -v
+  494  git push -u origin feature
+  495  git push -u origin feature
+  496  git commit --amend -m "Added changes to README.md and .gitignore. ammend"
+  497  git checkout main
+  498  git merge feature
+  499  history > history.txt
